@@ -56,17 +56,17 @@ const Footer = () => {
                                     height={32}
                                 />
                                 <span className="text-lg lg:text-xl font-medium">
-                                    PropEase
+                                    PeoplyAI
                                 </span>
                             </div>
                             <p className="text-muted-foreground mt-4 text-sm">
-                                123 Pine Avenue, Suite 500
+                                456 AI Boulevard, Suite 200
                                 <br />
-                                New York, NY 10001
+                                San Francisco, CA 94103
                             </p>
                             <div className="mt-4 text-sm text-muted-foreground">
-                                <p>support@propease.com</p>
-                                <p>+1 (123) 456-7890</p>
+                                <p>hello@peoplyai.com</p>
+                                <p>+1 (555) 123-4567</p>
                             </div>
                             <div className="flex items-center gap-4 mt-6">
                                 {SOCIAL_LINKS.map((social, index) => (
@@ -167,7 +167,7 @@ const Footer = () => {
                 <AnimationContainer animation="fadeUp" delay={1}>
                     <div className="mt-16 border-t border-border/40 py-8 flex flex-col md:flex-row items-center justify-center">
                         <p className="text-sm text-muted-foreground">
-                            © {new Date().getFullYear()} PropEase. All rights reserved.
+                            © {new Date().getFullYear()} PeoplyAI. All rights reserved.
                         </p>
                     </div>
                 </AnimationContainer>

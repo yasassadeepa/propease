@@ -10,15 +10,15 @@ import SectionBadge from "./ui/section-badge";
 const HIGHLIGHTS = [
     {
         icon: "/icons/shield.svg",
-        label: "Secure Platform"
+        label: "Zero Bias"
     },
     {
         icon: "/icons/clock.svg",
-        label: "Real-time Updates"
+        label: "Fast Results"
     },
     {
         icon: "/icons/magicpen.svg",
-        label: "Smart Features"
+        label: "AI Screening"
     }
 ];
 
@@ -50,18 +50,18 @@ const CTA = () => {
 
                 <div className="flex flex-col items-center justify-center w-full z-30">
                     <AnimationContainer animation="fadeUp" delay={0.3}>
-                        <SectionBadge title="Start now" />
+                        <SectionBadge title="Start Hiring Smarter" />
                     </AnimationContainer>
 
                     <AnimationContainer animation="fadeUp" delay={0.4}>
                         <h2 className="text-3xl md:text-5xl lg:text-6xl font-medium !leading-tight text-transparent bg-clip-text bg-gradient-to-b from-foreground to-neutral-400">
-                            Ready to get started?
+                            Ready to transform your hiring?
                         </h2>
                     </AnimationContainer>
 
                     <AnimationContainer animation="fadeUp" delay={0.5}>
                         <p className="text-sm md:text-base lg:text-lg text-muted-foreground max-w-lg mx-auto mt-4">
-                            Sign up for a free trial and see how PropEase can help you manage your properties.
+                            Join thousands of HR professionals using PeoplyAI to find the best talent.
                         </p>
                     </AnimationContainer>
 

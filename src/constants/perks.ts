@@ -6,23 +6,23 @@ export interface PerkItem {
 
 export const PERKS: PerkItem[] = [
     {
-        title: "Property Sync",
-        description: "Sync listings across platforms instantly.",
+        title: "Job Sync",
+        description: "Post once, publish everywhere. Sync job listings across multiple job boards instantly.",
         icon: "/icons/perk-one.svg"
     },
     {
-        title: "Smart Analytics",
-        description: "Track performance with realtime insights.",
+        title: "Hiring Analytics",
+        description: "Track candidate sources and time-to-hire with real-time insights.",
         icon: "/icons/perk-two.svg"
     },
     {
-        title: "Doc Manager",
-        description: "Handle documents and esigns easily.",
+        title: "Resume Manager",
+        description: "Parse and organize thousands of resumes automatically.",
         icon: "/icons/perk-three.svg"
     },
     {
-        title: "Lead Connect",
-        description: "Manage all property inquiries centrally.",
+        title: "Candidate Connect",
+        description: "Communicate with applicants directly from the dashboard.",
         icon: "/icons/perk-four.svg"
     }
 ]; 
