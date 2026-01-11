@@ -5,27 +5,27 @@ export type FAQItem = {
 
 export const FAQS: FAQItem[] = [
     {
-        question: "How does the property listing process work?",
-        answer: "Our platform makes listing properties simple. Upload property details, photos, and documents through our intuitive interface. Your listings are instantly visible to potential buyers or renters, with AI-powered optimization for maximum visibility."
+        question: "How does the job posting process work?",
+        answer: "Posting a job is simple. Just provide the basic details, and our AI helps you draft a compelling description. Once approved, your job is live and ready to receive optimal candidates."
     },
     {
-        question: "What tools are available for property management?",
-        answer: "We offer a comprehensive suite of tools including automated rent collection, maintenance request tracking, tenant screening, financial reporting, and document management. All these features are integrated seamlessly into one dashboard."
+        question: "How does the AI screening ranking work?",
+        answer: "Our AI analyzes resumes against your specific job requirements, extracting skills, experience, and education. It then scores and ranks candidates, ensuring you see the best matches first without bias."
     },
     {
-        question: "How secure are the transactions on your platform?",
-        answer: "We implement bank-level security measures for all transactions. Our platform uses advanced encryption, secure payment gateways, and multi-factor authentication to ensure your financial transactions are completely safe."
+        question: "Is candidate data secure?",
+        answer: "Yes, we prioritize data security. All candidate information is encrypted and stored securely, complying with global data protection regulations to ensure privacy and safety."
     },
     {
-        question: "Can I manage multiple properties efficiently?",
-        answer: "Absolutely! Our platform is designed to handle multiple properties with ease. You can organize properties by portfolios, track performance metrics across all properties, and manage multiple tenant relationships from a single dashboard."
+        question: "Can I collaborate with my team?",
+        answer: "Absolutely! PeoplyAI is built for teams. You can invite colleagues, share candidate profiles, leave notes, and make collaborative hiring decisions all within the platform."
     },
     {
         question: "What kind of support do you provide?",
-        answer: "We offer 24/7 customer support through multiple channels including live chat, email, and phone. Our dedicated support team is trained to help with technical issues, platform navigation, and best practices for property management."
+        answer: "We offer dedicated support via email and chat. Our team fits familiar with HR workflows and can assist you with everything from setting up your account to optimizing your hiring pipeline."
     },
     {
-        question: "Is there a mobile app available?",
-        answer: "Yes, we have both iOS and Android apps available. The mobile apps offer all core functionalities of the web platform, allowing you to manage your properties on the go with real-time notifications and updates."
+        question: "Is there a trial period?",
+        answer: "Yes, we offer a free trial so you can experience the power of AI recruiting firsthand. No credit card is required to get started."
     }
 ];

@@ -2,22 +2,22 @@
 <g clip-path="url(#clip0_714_140)">
 <rect width="424" height="424" rx="22" fill="#1F1F1F" fill-opacity="0.66"/>
 <g filter="url(#filter0_f_714_140)">
-<circle cx="334" cy="340" r="3" fill="#FF5F0D"/>
+<circle cx="334" cy="340" r="3" fill="#0369A1"/>
 </g>
 <g filter="url(#filter1_f_714_140)">
-<circle cx="156" cy="228" r="3" fill="#FF5F0D"/>
+<circle cx="156" cy="228" r="3" fill="#0369A1"/>
 </g>
 <g filter="url(#filter2_f_714_140)">
-<circle cx="231" cy="92" r="3" fill="#FF5F0D"/>
+<circle cx="231" cy="92" r="3" fill="#0369A1"/>
 </g>
-<circle cx="212" cy="212" r="148.25" fill="white" fill-opacity="0.01" stroke="#F97316" stroke-width="1.5"/>
-<circle cx="212" cy="212" r="81.25" fill="white" fill-opacity="0.01" stroke="#F97316" stroke-width="1.5"/>
-<circle cx="211.5" cy="211.5" r="18.75" fill="white" fill-opacity="0.01" stroke="#F97316" stroke-width="1.5"/>
+<circle cx="212" cy="212" r="148.25" fill="white" fill-opacity="0.01" stroke="#0EA5E9" stroke-width="1.5"/>
+<circle cx="212" cy="212" r="81.25" fill="white" fill-opacity="0.01" stroke="#0EA5E9" stroke-width="1.5"/>
+<circle cx="211.5" cy="211.5" r="18.75" fill="white" fill-opacity="0.01" stroke="#0EA5E9" stroke-width="1.5"/>
 <g filter="url(#filter3_f_714_140)">
-<circle cx="212" cy="212" r="38" fill="#F97316" fill-opacity="0.73"/>
+<circle cx="212" cy="212" r="38" fill="#0EA5E9" fill-opacity="0.73"/>
 </g>
 <g filter="url(#filter4_f_714_140)">
-<circle cx="212" cy="213" r="99" fill="#F97316" fill-opacity="0.53"/>
+<circle cx="212" cy="213" r="99" fill="#0EA5E9" fill-opacity="0.53"/>
 </g>
 <g opacity="0.53">
 <rect x="86.75" y="53.751" width="82" height="80" rx="40" transform="rotate(15 86.75 53.751)" fill="url(#paint0_linear_714_140)"/>
@@ -61,20 +61,20 @@
 <feGaussianBlur stdDeviation="114.45" result="effect1_foregroundBlur_714_140"/>
 </filter>
 <linearGradient id="paint0_linear_714_140" x1="127.75" y1="133.751" x2="127.75" y2="53.751" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FB923C"/>
-<stop offset="1" stop-color="#FF5F0D"/>
+<stop stop-color="#38BDF8"/>
+<stop offset="1" stop-color="#0369A1"/>
 </linearGradient>
 <linearGradient id="paint1_linear_714_140" x1="280.444" y1="245.923" x2="280.444" y2="177.812" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FB923C"/>
-<stop offset="1" stop-color="#FF5F0D"/>
+<stop stop-color="#38BDF8"/>
+<stop offset="1" stop-color="#0369A1"/>
 </linearGradient>
 <linearGradient id="paint2_linear_714_140" x1="194.577" y1="388.756" x2="194.577" y2="339.646" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FB923C"/>
-<stop offset="1" stop-color="#FF5F0D"/>
+<stop stop-color="#38BDF8"/>
+<stop offset="1" stop-color="#0369A1"/>
 </linearGradient>
 <linearGradient id="paint3_linear_714_140" x1="460" y1="213" x2="388" y2="213" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FB923C"/>
-<stop offset="1" stop-color="#FF5F0D"/>
+<stop stop-color="#38BDF8"/>
+<stop offset="1" stop-color="#0369A1"/>
 </linearGradient>
 <clipPath id="clip0_714_140">
 <rect width="424" height="424" fill="white"/>

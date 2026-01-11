@@ -51,7 +51,7 @@ const Pricing = () => {
                     >
                         <div
                             className={cn(
-                                "h-4 w-4 rounded-full bg-gradient-to-b from-primary to-orange-400 transition-transform duration-300",
+                                "h-4 w-4 rounded-full bg-gradient-to-b from-primary to-blue-400 transition-transform duration-300",
                                 isYearly && "translate-x-5"
                             )}
                         />

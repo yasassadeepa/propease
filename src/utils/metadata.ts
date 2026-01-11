@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 
 export const generateMetadata = ({
-    title = `${process.env.NEXT_PUBLIC_APP_NAME} | Home`,
-    description = `Manage your real estate properties with ease.`,
+    title = "PeoplyAI | Intelligent Recruitment Assistant",
+    description = "Streamline your hiring process with AI-powered insights and automated screening.",
     image = "/thumbnail.png",
     icons = [
         {

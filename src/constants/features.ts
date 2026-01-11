@@ -1,25 +1,25 @@
 export const FEATURES = [
     {
-        title: "Smart property management",
-        description: "Manage multiple properties effortlessly with our AI-powered dashboard. Track rent payments and maintenance schedules.",
+        title: "Smart Job Descriptions",
+        description: "Struggling to write the perfect job post? Just tell PeoplyAI what you need, and it will generate a professional, targeted job description for you in seconds.",
         image: "/images/f1.svg",
         size: "large"
     },
     {
-        title: "Real-time analytics",
-        description: "Track property views, leads, and revenue through real-time analytics.",
+        title: "Automated Screening & Ranking",
+        description: "Stop drowning in PDFs. PeoplyAI reads every resume, extracts key skills and experience, and ranks candidates based on how well they match your job requirements.",
         image: "/images/f2.svg",
         size: "small"
     },
     {
-        title: "Smart transaction hub",
-        description: "Handle property transactions securely in one place, from offers to digital contracts and payments.",
+        title: "Deep Insights",
+        description: "Go beyond the resume. Our AI provides a detailed summary for each candidate, highlighting their strengths and identifying any potential skill gaps so you can make informed decisions.",
         image: "/images/f3.svg",
         size: "large"
     },
     {
-        title: "Instant property valuation",
-        description: "Get real-time market valuations powered by AI and big data for informed pricing decisions.",
+        title: "Centralized Resume Management",
+        description: "Keep everything organized. View all your job openings and applicants in one clean, modern dashboard. Upload resumes in bulk and let the system handle the rest.",
         image: "/images/f4.svg",
         size: "small"
     },

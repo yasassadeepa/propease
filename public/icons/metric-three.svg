@@ -33,13 +33,13 @@
         </filter>
         <linearGradient id="paint0_linear_729_215" x1="123" y1="50.5" x2="4.37115e-08" y2="50.5"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FF5F0D" stop-opacity="0.6" />
-            <stop offset="1" stop-color="#FF5F0D" stop-opacity="0" />
+            <stop stop-color="#0369A1" stop-opacity="0.6" />
+            <stop offset="1" stop-color="#0369A1" stop-opacity="0" />
         </linearGradient>
         <linearGradient id="paint1_linear_729_215" x1="82.5" y1="102" x2="82.5" y2="-2.18557e-08"
             gradientUnits="userSpaceOnUse">
-            <stop stop-color="#FF5F0D" stop-opacity="0.4" />
-            <stop offset="1" stop-color="#FF5F0D" stop-opacity="0.6" />
+            <stop stop-color="#0369A1" stop-opacity="0.4" />
+            <stop offset="1" stop-color="#0369A1" stop-opacity="0.6" />
         </linearGradient>
         <linearGradient id="paint2_linear_729_215" x1="79" y1="41" x2="79" y2="50.49"
             gradientUnits="userSpaceOnUse">
